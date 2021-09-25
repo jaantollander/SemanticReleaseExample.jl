@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.0.0](https://github.com/jaantollander/SemanticReleaseExample.jl/compare/v0.1.0...v1.0.0) (2021-09-25)
+
+
+### Features
+
+* renamed function g to h ([8bfcf02](https://github.com/jaantollander/SemanticReleaseExample.jl/commit/8bfcf02fa3a9579ba8a9afac789c2c12c45fe318))
+
+
+### BREAKING CHANGES
+
+* the function g was renamed h
+
 # [0.1.0](https://github.com/jaantollander/SemanticReleaseExample.jl/compare/v0.0.0...v0.1.0) (2021-09-25)
 
 

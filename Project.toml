@@ -1,7 +1,7 @@
 name = "SemanticReleaseExample"
 uuid = "cb215971-6401-4076-a740-cd16db6901b2"
 authors = ["Jaan Tollander de Balsch"]
-version = "0.1.0"
+version = "1.0.0"
 
 [compat]
 julia = "1.6"
