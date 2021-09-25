@@ -2,6 +2,6 @@ module SemanticReleaseExample
 
 f() = "Hello World"
 
-g() = "Hello, again!"
+h() = "Hello, again!"
 
 end
