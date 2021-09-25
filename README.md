@@ -77,8 +77,7 @@ git tag v0.0.0
 Now, we can push the initial commit and tag to our remote repository.
 
 ```bash
-git push origin master
-git push origin v0.0.0
+git push origin master v0.0.0
 ```
 
 Finally, we need to create an initial release on GitHub with the initial version tag. 
