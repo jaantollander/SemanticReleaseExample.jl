@@ -3,7 +3,7 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## What is semantic-release?
-[**Semantic-release**](https://github.com/semantic-release/semantic-release) is a tool for automating package release workflow to make new features and fixes immediately available to users. It uses formalized [**commit message convention**](https://www.conventionalcommits.org) to automatically determine the next semantic version number according to [**semantic versioning**](https://semver.org/) specification and generate release notes. It also works with continuous integration workflows. Semantic-release helps to avoid mistakes with manual releases.
+[**Semantic-release**](https://github.com/semantic-release/semantic-release) is a tool for automating package release workflow to make new features and fixes immediately available to users. It uses formalized [**commit message convention**](https://www.conventionalcommits.org) to automatically determine the next semantic version number according to [**semantic versioning**](https://semver.org/) specification and generate release notes. Furthermore, semantic-release works with continuous integration workflows such as GitHub Actions and helps to avoid mistakes with manual releases.
 
 The instructions below explain how to use semantic-release for a Julia package hosted on GitHub. We give the instructions using [Julia](https://julialang.org/), [Git](https://git-scm.com/), and [GitHub](https://cli.github.com/) command-line interfaces.
 
