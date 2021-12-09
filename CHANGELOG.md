@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/jaantollander/SemanticReleaseExample.jl/compare/v1.0.0...v1.1.0) (2021-12-09)
+
+
+### Features
+
+* updated semantic-release version ([812e2fd](https://github.com/jaantollander/SemanticReleaseExample.jl/commit/812e2fd768083141812667d28efbfa081b3257e7))
+
 # [1.0.0](https://github.com/jaantollander/SemanticReleaseExample.jl/compare/v0.1.0...v1.0.0) (2021-09-25)
 
 
