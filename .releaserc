@@ -6,7 +6,7 @@
     [
       "@google/semantic-release-replace-plugin", {
         "replacements": [
-            {
+          {
             "files": ["Project.toml"],
             "from": "version = \".*\"",
             "to": "version = \"${nextRelease.version}\"",
